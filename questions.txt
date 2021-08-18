@@ -1,0 +1,18 @@
+1. In Bash, why should you quote variables when referencing them?
+It prevents special characters from being misinterpreted within the string.
+
+2. In Bash, what is -z?
+An operator that checks if the string is null or empty.
+
+3. In Bash, when do you prefix a variable with a dollar sign?
+For Special variables
+
+4. How many ways can you come up with to create an array in Bash?
+Two ways: declare it or just assign multiple elements to a variable
+
+5. What is an array?
+An array is a data structure that holds multiple elements of the same type.
+It holds a reference to a point in memory and then takes fixed-sized increments to access each item.
+
+6. What does the * in /etc/apache2/sites-available/*.conf do?
+It's a wildcard that represents any number of characters including zero.
